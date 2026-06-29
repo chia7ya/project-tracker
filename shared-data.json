@@ -121,7 +121,46 @@
       "note": "",
       "id": "sop_1782699176203_hrae",
       "createdAt": "2026-06-29T02:12:56.203Z"
+    },
+    {
+      "memberId": "m1",
+      "categoryId": "sop2",
+      "title": "用户分层损益",
+      "description": "",
+      "batch": 1,
+      "duration": 0.5,
+      "frequency": 4,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782699197967_8hcx",
+      "createdAt": "2026-06-29T02:13:17.967Z"
+    },
+    {
+      "memberId": "m1",
+      "categoryId": "sop3",
+      "title": "D7预测",
+      "description": "",
+      "batch": 2,
+      "duration": 0.5,
+      "frequency": 4,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782699231622_gqcm",
+      "createdAt": "2026-06-29T02:13:51.622Z"
+    },
+    {
+      "memberId": "m1",
+      "categoryId": "sop3",
+      "title": "D-3预测",
+      "description": "",
+      "batch": 2,
+      "duration": 0.5,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782699257345_ii2q",
+      "createdAt": "2026-06-29T02:14:17.345Z"
     }
   ],
-  "lastUpdated": "2026-06-29T02:12:58.219Z"
+  "lastUpdated": "2026-06-29T02:14:19.358Z"
 }
