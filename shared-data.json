@@ -187,7 +187,20 @@
       "note": "",
       "id": "sop_1782702112200_71ui",
       "createdAt": "2026-06-29T03:01:52.200Z"
+    },
+    {
+      "memberId": "m5",
+      "categoryId": "",
+      "title": "新咖（带货）主播政策评估&日常监控",
+      "description": "",
+      "batch": 1,
+      "duration": 1,
+      "frequency": 4,
+      "canAI": "",
+      "note": "",
+      "id": "sop_1782702222935_u0nv",
+      "createdAt": "2026-06-29T03:03:42.935Z"
     }
   ],
-  "lastUpdated": "2026-06-29T03:01:54.204Z"
+  "lastUpdated": "2026-06-29T03:03:44.942Z"
 }
