@@ -538,7 +538,79 @@
       ],
       "progress": [],
       "lastUpdated": "2026-06-29T08:08:26.079Z"
+    },
+    "m8": {
+      "memberId": "m8",
+      "sopEntries": [
+        {
+          "memberId": "m8",
+          "categoryId": "sop6",
+          "title": "周报",
+          "description": "分主播角色损益周报",
+          "batch": 1,
+          "duration": 2,
+          "frequency": 4,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782725393515_mj7t",
+          "createdAt": "2026-06-29T09:29:53.515Z"
+        },
+        {
+          "memberId": "m8",
+          "categoryId": "sop3",
+          "title": "预测",
+          "description": "",
+          "batch": 2,
+          "duration": 10,
+          "frequency": 2,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782725423497_riji",
+          "createdAt": "2026-06-29T09:30:23.497Z"
+        },
+        {
+          "memberId": "m8",
+          "categoryId": "sop6",
+          "title": "FPA月报",
+          "description": "分主播损益/分端损益",
+          "batch": 2,
+          "duration": 30,
+          "frequency": 1,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782725477725_f1ad",
+          "createdAt": "2026-06-29T09:31:17.725Z"
+        },
+        {
+          "memberId": "m8",
+          "categoryId": "sop2",
+          "title": "店播王炸分析",
+          "description": "",
+          "batch": 1,
+          "duration": 5,
+          "frequency": 4,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782725564744_8zuj",
+          "createdAt": "2026-06-29T09:32:44.744Z"
+        },
+        {
+          "memberId": "m8",
+          "categoryId": "sop2",
+          "title": "店播商家TR管理",
+          "description": "",
+          "batch": 1,
+          "duration": 5,
+          "frequency": 4,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782725588379_ohjt",
+          "createdAt": "2026-06-29T09:33:08.379Z"
+        }
+      ],
+      "progress": [],
+      "lastUpdated": "2026-06-29T09:34:32.496Z"
     }
   },
-  "lastUpdated": "2026-06-29T08:24:09.353Z"
+  "lastUpdated": "2026-06-29T09:34:35.987Z"
 }
