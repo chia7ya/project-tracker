@@ -1,0 +1,47 @@
+{
+  "memberId": "m4",
+  "sopEntries": [
+    {
+      "memberId": "m4",
+      "categoryId": "sop6",
+      "title": "直播用户月度复盘",
+      "description": "复盘用户表现和用户投入",
+      "batch": 1,
+      "duration": 20,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782716664263_w6es",
+      "createdAt": "2026-06-29T07:04:24.263Z",
+      "skillDone": false
+    },
+    {
+      "memberId": "m4",
+      "categoryId": "sop6",
+      "title": "珠宝文玩周报",
+      "description": "周报",
+      "batch": 1,
+      "duration": 3,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782716713358_8m09",
+      "createdAt": "2026-06-29T07:05:13.358Z"
+    },
+    {
+      "memberId": "m4",
+      "categoryId": "sop2",
+      "title": "珠宝文玩政策复盘",
+      "description": "政策有效性复盘",
+      "batch": 1,
+      "duration": 10,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782716743334_o4f0",
+      "createdAt": "2026-06-29T07:05:43.334Z"
+    }
+  ],
+  "progress": [],
+  "lastUpdated": "2026-06-29T08:08:23.606Z"
+}
