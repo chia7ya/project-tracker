@@ -296,7 +296,7 @@
       "memberId": "m3",
       "categoryId": "sop3",
       "title": "D7预测",
-      "description": "点淘、营销IP及渠道推广预测",
+      "description": "",
       "batch": 1,
       "duration": 1,
       "frequency": 1,
@@ -365,11 +365,24 @@
       "batch": 2,
       "duration": 3,
       "frequency": 1,
-      "canAI": "",
+      "canAI": "yes",
       "note": "",
       "id": "sop_1782714853198_v5pc",
       "createdAt": "2026-06-29T06:34:13.198Z"
+    },
+    {
+      "memberId": "m3",
+      "categoryId": "sop2",
+      "title": "点淘用增投入分析",
+      "description": "",
+      "batch": 2,
+      "duration": 3,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782714878508_i4wi",
+      "createdAt": "2026-06-29T06:34:38.508Z"
     }
   ],
-  "lastUpdated": "2026-06-29T06:34:15.208Z"
+  "lastUpdated": "2026-06-29T06:35:51.475Z"
 }
