@@ -402,7 +402,20 @@
       "note": "非月度固定项工作，比较灵活+需要人工参与决策，可参考AI给出的建议进行方案评估",
       "id": "sop_1782715909927_c1k0",
       "createdAt": "2026-06-29T06:51:49.927Z"
+    },
+    {
+      "memberId": "m4",
+      "categoryId": "sop6",
+      "title": "直播用户月度复盘",
+      "description": "复盘用户表现和用户投入",
+      "batch": 1,
+      "duration": 20,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782716664263_w6es",
+      "createdAt": "2026-06-29T07:04:24.263Z"
     }
   ],
-  "lastUpdated": "2026-06-29T06:59:04.320Z"
+  "lastUpdated": "2026-06-29T07:04:26.266Z"
 }
