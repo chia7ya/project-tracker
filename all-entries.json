@@ -579,10 +579,23 @@
           "note": "",
           "id": "sop_1782717140323_i6cu",
           "createdAt": "2026-06-29T07:12:20.323Z"
+        },
+        {
+          "memberId": "m9",
+          "categoryId": "sop2",
+          "title": "百补官链广补增量商业化分析",
+          "description": "分析官链广补分行业、分赛道的广告增量率，监控货补投入比例，帮业务寻找可优化空间",
+          "batch": 2,
+          "duration": 3,
+          "frequency": 1,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782738785124_8exw",
+          "createdAt": "2026-06-29T13:13:05.124Z"
         }
       ],
       "progress": [],
-      "lastUpdated": "2026-06-29T08:08:26.079Z"
+      "lastUpdated": "2026-06-29T13:13:07.129Z"
     },
     "m8": {
       "memberId": "m8",
@@ -742,5 +755,5 @@
       "lastUpdated": "2026-06-29T10:04:06.925Z"
     }
   },
-  "lastUpdated": "2026-06-29T12:00:37.166Z"
+  "lastUpdated": "2026-06-29T13:13:09.153Z"
 }
