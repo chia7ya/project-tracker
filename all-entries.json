@@ -610,7 +610,92 @@
       ],
       "progress": [],
       "lastUpdated": "2026-06-29T09:34:32.496Z"
+    },
+    "m6": {
+      "memberId": "m6",
+      "sopEntries": [
+        {
+          "memberId": "m6",
+          "title": "达播-各类主播分析",
+          "description": "番类cmr情况，yoy同比，从主播维度，商家维度诊断番类情况",
+          "categoryId": "sop2",
+          "batch": "1",
+          "duration": "5",
+          "frequency": "4",
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782721349690_zcm5",
+          "createdAt": "2026-06-29T08:22:29.690Z"
+        },
+        {
+          "memberId": "m6",
+          "title": "商品中心损益分析",
+          "description": "商品中心损益情况，yoy同比，从主播维度，商家维度诊断商品中心损益情况",
+          "categoryId": "sop6",
+          "batch": "1",
+          "duration": "8",
+          "frequency": "4",
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782721349691_svr0",
+          "createdAt": "2026-06-29T08:22:29.691Z"
+        },
+        {
+          "memberId": "m6",
+          "title": "数字人主播损益",
+          "description": "数字人主播损益跟踪",
+          "categoryId": "sop6",
+          "batch": "2",
+          "duration": "6",
+          "frequency": "4",
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782721349691_eh2q",
+          "createdAt": "2026-06-29T08:22:29.691Z"
+        },
+        {
+          "memberId": "m6",
+          "title": "番类政策进展追踪",
+          "description": "跟踪番类政策的投资效果情况，支持政策复盘用。并追踪番类政策升转情况",
+          "categoryId": "sop1",
+          "batch": "2",
+          "duration": "8",
+          "frequency": "2",
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782721349691_wag3",
+          "createdAt": "2026-06-29T08:22:29.691Z"
+        },
+        {
+          "memberId": "m6",
+          "title": "商品中心预算编制",
+          "description": "根据业务方向调整及历史情况，预估商品中心预算的预制损益情况",
+          "categoryId": "sop3",
+          "batch": "2",
+          "duration": "6",
+          "frequency": "1",
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782721349691_tev4",
+          "createdAt": "2026-06-29T08:22:29.691Z"
+        },
+        {
+          "memberId": "m6",
+          "title": "权益投资效率评估",
+          "description": "将历史商品中心权益类投资汇入并进行评估，并与实际情况进行对比，输出有效调整建议",
+          "categoryId": "sop1",
+          "batch": "2",
+          "duration": "4",
+          "frequency": "1",
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782721349691_vhe9",
+          "createdAt": "2026-06-29T08:22:29.691Z"
+        }
+      ],
+      "progress": [],
+      "lastUpdated": "2026-06-29T10:04:06.925Z"
     }
   },
-  "lastUpdated": "2026-06-29T09:34:35.987Z"
+  "lastUpdated": "2026-06-29T10:04:06.927Z"
 }
