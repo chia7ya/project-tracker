@@ -206,14 +206,40 @@
       "categoryId": "sop6",
       "title": "月报",
       "description": "",
-      "batch": 1,
-      "duration": 1,
+      "batch": 2,
+      "duration": 4,
       "frequency": 1,
       "canAI": "yes",
       "note": "",
       "id": "sop_1782702449599_wecc",
       "createdAt": "2026-06-29T03:07:29.599Z"
+    },
+    {
+      "memberId": "m7",
+      "categoryId": "sop6",
+      "title": "周报",
+      "description": "",
+      "batch": 1,
+      "duration": 1,
+      "frequency": 4,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782702468325_az8d",
+      "createdAt": "2026-06-29T03:07:48.325Z"
+    },
+    {
+      "memberId": "m7",
+      "categoryId": "sop3",
+      "title": "D7预测",
+      "description": "",
+      "batch": 2,
+      "duration": 2,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782702537351_h8lq",
+      "createdAt": "2026-06-29T03:08:57.351Z"
     }
   ],
-  "lastUpdated": "2026-06-29T03:07:31.612Z"
+  "lastUpdated": "2026-06-29T03:08:59.360Z"
 }
