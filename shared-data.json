@@ -1,7 +1,113 @@
 {
-  "members": [],
-  "milestones": [],
+  "members": [
+    {
+      "id": "m1",
+      "name": "七亚",
+      "avatar": "📋",
+      "team": "秒杀"
+    },
+    {
+      "id": "m3",
+      "name": "如淇",
+      "avatar": "👩‍💻",
+      "team": "直播"
+    },
+    {
+      "id": "m4",
+      "name": "尼诺",
+      "avatar": "🧑‍💻",
+      "team": "直播"
+    },
+    {
+      "id": "m5",
+      "name": "爱喜",
+      "avatar": "👩‍🔬",
+      "team": "直播"
+    },
+    {
+      "id": "m6",
+      "name": "原东",
+      "avatar": "👩‍🎨",
+      "team": "直播"
+    },
+    {
+      "id": "m8",
+      "name": "如蔓",
+      "avatar": "🌿",
+      "team": "直播"
+    },
+    {
+      "id": "m7",
+      "name": "淮月",
+      "avatar": "🌙",
+      "team": "百补"
+    },
+    {
+      "id": "m9",
+      "name": "杨霏",
+      "avatar": "🌸",
+      "team": "百补"
+    }
+  ],
+  "milestones": [
+    {
+      "id": "sop",
+      "title": "SOP梳理 + 信息化数据需求对焦",
+      "startWeek": 1,
+      "endWeek": 1,
+      "category": "W1 启动"
+    },
+    {
+      "id": "ms2",
+      "title": "第一批 Skill 开发",
+      "startWeek": 2,
+      "endWeek": 2,
+      "category": "第一批"
+    },
+    {
+      "id": "ms3",
+      "title": "第一批 Skill 调试 + 三层组织验收",
+      "startWeek": 3,
+      "endWeek": 4,
+      "category": "第一批"
+    },
+    {
+      "id": "ms4",
+      "title": "第一批 Skill A2A 调试",
+      "startWeek": 4,
+      "endWeek": 5,
+      "category": "第一批"
+    },
+    {
+      "id": "ms5",
+      "title": "第二批 Skill 开发",
+      "startWeek": 4,
+      "endWeek": 5,
+      "category": "第二批"
+    },
+    {
+      "id": "ms6",
+      "title": "第二批 Skill 调试 + 三层组织验收",
+      "startWeek": 5,
+      "endWeek": 6,
+      "category": "第二批"
+    },
+    {
+      "id": "ms7",
+      "title": "第二批 Skill A2A 调试",
+      "startWeek": 6,
+      "endWeek": 7,
+      "category": "第二批"
+    },
+    {
+      "id": "ms8",
+      "title": "三层组织 A2A 调试",
+      "startWeek": 8,
+      "endWeek": 10,
+      "category": "联调验收"
+    }
+  ],
   "progress": [],
   "sopEntries": [],
-  "lastUpdated": "2026-06-28T20:50:19.857Z"
+  "lastUpdated": "2026-06-29T01:58:39.982Z"
 }
