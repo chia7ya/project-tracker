@@ -343,7 +343,20 @@
       "note": "",
       "id": "sop_1782714701973_rm0s",
       "createdAt": "2026-06-29T06:31:41.973Z"
+    },
+    {
+      "memberId": "m3",
+      "categoryId": "sop5",
+      "title": "IP预算监控",
+      "description": "监控权益投入预算进度",
+      "batch": 2,
+      "duration": 0.5,
+      "frequency": 4,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782714778082_koa9",
+      "createdAt": "2026-06-29T06:32:58.082Z"
     }
   ],
-  "lastUpdated": "2026-06-29T06:32:05.464Z"
+  "lastUpdated": "2026-06-29T06:33:06.473Z"
 }
