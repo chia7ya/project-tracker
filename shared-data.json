@@ -181,8 +181,8 @@
       "title": "KA主播政策评估&日常监控",
       "description": "1. KA主播政策分析评估（结合预算目标、分主播历史情况数据、增量ROI指标）2. 日常进度监控（成交、商业化、佣金TR、过程指标如用户等达成情况）",
       "batch": 1,
-      "duration": 16,
-      "frequency": 0,
+      "duration": 1,
+      "frequency": 10,
       "canAI": "",
       "note": "",
       "id": "sop_1782702112200_71ui",
@@ -194,13 +194,13 @@
       "title": "新咖（带货）主播政策评估&日常监控",
       "description": "",
       "batch": 1,
-      "duration": 1,
-      "frequency": 4,
+      "duration": 0.5,
+      "frequency": 8,
       "canAI": "",
       "note": "",
       "id": "sop_1782702222935_u0nv",
       "createdAt": "2026-06-29T03:03:42.935Z"
     }
   ],
-  "lastUpdated": "2026-06-29T03:03:44.942Z"
+  "lastUpdated": "2026-06-29T03:04:46.963Z"
 }
