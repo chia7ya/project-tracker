@@ -1,0 +1,131 @@
+{
+  "memberId": "m3",
+  "sopEntries": [
+    {
+      "memberId": "m3",
+      "categoryId": "sop3",
+      "title": "D7预测",
+      "description": "",
+      "batch": 2,
+      "duration": 1,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782714504621_se57",
+      "createdAt": "2026-06-29T06:28:24.621Z"
+    },
+    {
+      "memberId": "m3",
+      "categoryId": "sop3",
+      "title": "D-3预测",
+      "description": "",
+      "batch": 2,
+      "duration": 1,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782714520942_qz6n",
+      "createdAt": "2026-06-29T06:28:40.942Z"
+    },
+    {
+      "memberId": "m3",
+      "categoryId": "sop6",
+      "title": "月报",
+      "description": "点淘、营销IP月报",
+      "batch": 1,
+      "duration": 8,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782714646830_kfyd",
+      "createdAt": "2026-06-29T06:30:46.830Z"
+    },
+    {
+      "memberId": "m3",
+      "categoryId": "sop5",
+      "title": "点淘预算监控",
+      "description": "监控收入、投入预算进度",
+      "batch": 1,
+      "duration": 0.5,
+      "frequency": 15,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782714701973_rm0s",
+      "createdAt": "2026-06-29T06:31:41.973Z"
+    },
+    {
+      "memberId": "m3",
+      "categoryId": "sop5",
+      "title": "IP预算监控",
+      "description": "IP监控收入、投入预算进度",
+      "batch": 2,
+      "duration": 0.5,
+      "frequency": 4,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782714778082_koa9",
+      "createdAt": "2026-06-29T06:32:58.082Z"
+    },
+    {
+      "memberId": "m3",
+      "categoryId": "sop2",
+      "title": "点淘用户分层损益分析",
+      "description": "",
+      "batch": 2,
+      "duration": 3,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782714853198_v5pc",
+      "createdAt": "2026-06-29T06:34:13.198Z"
+    },
+    {
+      "memberId": "m3",
+      "categoryId": "sop2",
+      "title": "点淘用增投入分析",
+      "description": "",
+      "batch": 1,
+      "duration": 3,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782714878508_i4wi",
+      "createdAt": "2026-06-29T06:34:38.508Z"
+    },
+    {
+      "memberId": "m3",
+      "categoryId": "sop1",
+      "title": "季度/月度预算盘点",
+      "description": "",
+      "batch": 1,
+      "duration": 8,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "可预测指标用AI完成，其余指标参考业务目标、财务目标参考AI给出建议，辅助人工判断，预算汇报用AI展示",
+      "id": "sop_1782715513732_2wsq",
+      "createdAt": "2026-06-29T06:45:13.732Z"
+    },
+    {
+      "memberId": "m3",
+      "categoryId": "sop1",
+      "title": "投入及商业化方案评估",
+      "description": "投入项/商业化收入的新增/变更方案评估",
+      "batch": 2,
+      "duration": 4,
+      "frequency": 1,
+      "canAI": "no",
+      "note": "非月度固定项工作，比较灵活+需要人工参与决策，可参考AI给出的建议进行方案评估",
+      "id": "sop_1782715909927_c1k0",
+      "createdAt": "2026-06-29T06:51:49.927Z"
+    }
+  ],
+  "progress": [
+    {
+      "memberId": "m3",
+      "milestoneId": "sop",
+      "status": "not_started",
+      "updatedAt": "2026-06-29T06:58:09.012Z"
+    }
+  ],
+  "lastUpdated": "2026-06-29T08:08:21.290Z"
+}
