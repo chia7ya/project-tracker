@@ -334,8 +334,8 @@
     {
       "memberId": "m3",
       "categoryId": "sop5",
-      "title": "预算监控",
-      "description": "点淘&IP监控收入、投入预算进度",
+      "title": "点淘预算监控",
+      "description": "监控收入、投入预算进度",
       "batch": 1,
       "duration": 0.5,
       "frequency": 15,
@@ -347,8 +347,8 @@
     {
       "memberId": "m3",
       "categoryId": "sop5",
-      "title": "点淘预算监控",
-      "description": "点淘监控收入、投入预算进度",
+      "title": "IP预算监控",
+      "description": "IP监控收入、投入预算进度",
       "batch": 1,
       "duration": 0.5,
       "frequency": 4,
@@ -382,7 +382,20 @@
       "note": "",
       "id": "sop_1782714878508_i4wi",
       "createdAt": "2026-06-29T06:34:38.508Z"
+    },
+    {
+      "memberId": "m3",
+      "categoryId": "sop1",
+      "title": "季度/月度预算盘点",
+      "description": "",
+      "batch": 1,
+      "duration": 8,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "可预测指标用AI完成，其余指标参考业务目标、财务目标参考AI给出建议，预算汇报用AI展示",
+      "id": "sop_1782715513732_2wsq",
+      "createdAt": "2026-06-29T06:45:13.732Z"
     }
   ],
-  "lastUpdated": "2026-06-29T06:41:05.934Z"
+  "lastUpdated": "2026-06-29T06:45:15.735Z"
 }
