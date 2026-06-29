@@ -765,9 +765,16 @@
           "createdAt": "2026-06-29T08:22:29.691Z"
         }
       ],
-      "progress": [],
-      "lastUpdated": "2026-06-29T10:04:06.925Z"
+      "progress": [
+        {
+          "memberId": "m6",
+          "milestoneId": "sop",
+          "status": "done",
+          "updatedAt": "2026-06-29T13:43:44.650Z"
+        }
+      ],
+      "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-29T13:24:03.445Z"
+  "lastUpdated": "2026-06-29T13:43:49.025Z"
 }
