@@ -1,0 +1,20 @@
+{
+  "memberId": "m9",
+  "sopEntries": [
+    {
+      "memberId": "m9",
+      "categoryId": "sop2",
+      "title": "百补叠补分析",
+      "description": "分析百补订单的百补权益、大盘权益的叠加情况",
+      "batch": 2,
+      "duration": 2,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782717140323_i6cu",
+      "createdAt": "2026-06-29T07:12:20.323Z"
+    }
+  ],
+  "progress": [],
+  "lastUpdated": "2026-06-29T08:08:26.079Z"
+}
