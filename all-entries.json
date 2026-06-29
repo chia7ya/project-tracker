@@ -736,10 +736,36 @@
           "note": "",
           "id": "sop_1782742882130_nx2a",
           "createdAt": "2026-06-29T14:21:22.130Z"
+        },
+        {
+          "memberId": "m9",
+          "categoryId": "",
+          "title": "百补官播损益报表自动化",
+          "description": "百补官播损益实现自动化周报，并推送至业务",
+          "batch": 2,
+          "duration": 1,
+          "frequency": 8,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782742933681_eo89",
+          "createdAt": "2026-06-29T14:22:13.681Z"
+        },
+        {
+          "memberId": "m9",
+          "categoryId": "sop6",
+          "title": "百补官播损益报表自动化",
+          "description": "百补官播损益实现自动化周报，并推送至业务",
+          "batch": 2,
+          "duration": 1,
+          "frequency": 8,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782743002316_9ezu",
+          "createdAt": "2026-06-29T14:23:22.316Z"
         }
       ],
       "progress": [],
-      "lastUpdated": "2026-06-29T14:21:24.132Z"
+      "lastUpdated": "2026-06-29T14:23:24.319Z"
     },
     "m8": {
       "memberId": "m8",
@@ -906,5 +932,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-29T14:21:25.699Z"
+  "lastUpdated": "2026-06-29T14:23:26.015Z"
 }
