@@ -115,7 +115,7 @@
       "title": "商家一本账",
       "description": "",
       "batch": 1,
-      "duration": 0.5,
+      "duration": 2,
       "frequency": 4,
       "canAI": "yes",
       "note": "",
@@ -199,7 +199,20 @@
       "note": "",
       "id": "sop_1782699337221_ml6d",
       "createdAt": "2026-06-29T02:15:37.221Z"
+    },
+    {
+      "memberId": "m1",
+      "categoryId": "sop1",
+      "title": "四象限迁移",
+      "description": "",
+      "batch": 1,
+      "duration": 0.5,
+      "frequency": 4,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782699360613_6y84",
+      "createdAt": "2026-06-29T02:16:00.613Z"
     }
   ],
-  "lastUpdated": "2026-06-29T02:15:39.235Z"
+  "lastUpdated": "2026-06-29T02:28:09.259Z"
 }
