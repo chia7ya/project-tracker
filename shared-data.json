@@ -127,14 +127,27 @@
       "categoryId": "sop3",
       "title": "D-3预测（主播政策激励投入）",
       "description": "1. KA主播政策（根据成交、商业化、佣金TR）的实时完成情况预估达成和激励金额；2. 新咖：带货新咖内投按解锁妈妈券预估、内容化新咖现金激励按活动/邀请费实际发生金额预估。",
-      "batch": 1,
+      "batch": 2,
       "duration": 0.5,
       "frequency": 2,
       "canAI": "yes",
       "note": "1. 主播激励进度skill化后、可直接引用结果；2. 待接入妈妈券消耗数据的产品能力",
       "id": "sop_1782701057211_wb8o",
       "createdAt": "2026-06-29T02:44:17.211Z"
+    },
+    {
+      "memberId": "m5",
+      "categoryId": "sop3",
+      "title": "D7预测（达播）",
+      "description": "1. 分达播主播梯队的：成交、广告、TCP佣金；2. 主播政策激励投入预估（KA激励、带货新咖内投、内容化新咖现金）。",
+      "batch": 1,
+      "duration": 4,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782701390144_gnby",
+      "createdAt": "2026-06-29T02:49:50.144Z"
     }
   ],
-  "lastUpdated": "2026-06-29T02:44:19.214Z"
+  "lastUpdated": "2026-06-29T02:49:52.147Z"
 }
