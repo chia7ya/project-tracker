@@ -291,7 +291,20 @@
       "note": "涉及汇金收款、UMP收款链路较多",
       "id": "sop_1782702920214_kl8v",
       "createdAt": "2026-06-29T03:15:20.214Z"
+    },
+    {
+      "memberId": "m3",
+      "categoryId": "sop3",
+      "title": "D7预测",
+      "description": "点淘、营销IP及渠道推广预测",
+      "batch": 1,
+      "duration": 1,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782714504621_se57",
+      "createdAt": "2026-06-29T06:28:24.621Z"
     }
   ],
-  "lastUpdated": "2026-06-29T03:17:15.495Z"
+  "lastUpdated": "2026-06-29T06:28:26.633Z"
 }
