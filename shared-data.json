@@ -2,112 +2,112 @@
   "members": [
     {
       "id": "m1",
-      "name": "七亚",
-      "avatar": "📋",
-      "team": "秒杀"
+      "name": "ä¸äº",
+      "avatar": "ð",
+      "team": "ç§æ"
     },
     {
       "id": "m3",
-      "name": "如淇",
-      "avatar": "👩‍💻",
-      "team": "直播"
+      "name": "å¦æ·",
+      "avatar": "ð©âð»",
+      "team": "ç´æ­"
     },
     {
       "id": "m4",
-      "name": "尼诺",
-      "avatar": "🧑‍💻",
-      "team": "直播"
+      "name": "å°¼è¯º",
+      "avatar": "ð§âð»",
+      "team": "ç´æ­"
     },
     {
       "id": "m5",
-      "name": "爱喜",
-      "avatar": "👩‍🔬",
-      "team": "直播"
+      "name": "ç±å",
+      "avatar": "ð©âð¬",
+      "team": "ç´æ­"
     },
     {
       "id": "m6",
-      "name": "原东",
-      "avatar": "👩‍🎨",
-      "team": "直播"
+      "name": "åä¸",
+      "avatar": "ð©âð¨",
+      "team": "ç´æ­"
     },
     {
       "id": "m8",
-      "name": "如蔓",
-      "avatar": "🌿",
-      "team": "直播"
+      "name": "å¦è",
+      "avatar": "ð¿",
+      "team": "ç´æ­"
     },
     {
       "id": "m7",
-      "name": "淮月",
-      "avatar": "🌙",
-      "team": "百补"
+      "name": "æ·®æ",
+      "avatar": "ð",
+      "team": "ç¾è¡¥"
     },
     {
       "id": "m9",
-      "name": "杨霏",
-      "avatar": "🌸",
-      "team": "百补"
+      "name": "æ¨é",
+      "avatar": "ð¸",
+      "team": "ç¾è¡¥"
     }
   ],
   "milestones": [
     {
       "id": "sop",
-      "title": "SOP梳理 + 信息化数据需求对焦",
+      "title": "SOPæ¢³ç + ä¿¡æ¯åæ°æ®éæ±å¯¹ç¦",
       "startWeek": 1,
       "endWeek": 1,
-      "category": "W1 启动"
+      "category": "W1 å¯å¨"
     },
     {
       "id": "ms2",
-      "title": "第一批 Skill 开发",
+      "title": "ç¬¬ä¸æ¹ Skill å¼å",
       "startWeek": 2,
       "endWeek": 2,
-      "category": "第一批"
+      "category": "ç¬¬ä¸æ¹"
     },
     {
       "id": "ms3",
-      "title": "第一批 Skill 调试 + 三层组织验收",
+      "title": "ç¬¬ä¸æ¹ Skill è°è¯ + ä¸å±ç»ç»éªæ¶",
       "startWeek": 3,
       "endWeek": 4,
-      "category": "第一批"
+      "category": "ç¬¬ä¸æ¹"
     },
     {
       "id": "ms4",
-      "title": "第一批 Skill A2A 调试",
+      "title": "ç¬¬ä¸æ¹ Skill A2A è°è¯",
       "startWeek": 4,
       "endWeek": 5,
-      "category": "第一批"
+      "category": "ç¬¬ä¸æ¹"
     },
     {
       "id": "ms5",
-      "title": "第二批 Skill 开发",
+      "title": "ç¬¬äºæ¹ Skill å¼å",
       "startWeek": 4,
       "endWeek": 5,
-      "category": "第二批"
+      "category": "ç¬¬äºæ¹"
     },
     {
       "id": "ms6",
-      "title": "第二批 Skill 调试 + 三层组织验收",
+      "title": "ç¬¬äºæ¹ Skill è°è¯ + ä¸å±ç»ç»éªæ¶",
       "startWeek": 5,
       "endWeek": 6,
-      "category": "第二批"
+      "category": "ç¬¬äºæ¹"
     },
     {
       "id": "ms7",
-      "title": "第二批 Skill A2A 调试",
+      "title": "ç¬¬äºæ¹ Skill A2A è°è¯",
       "startWeek": 6,
       "endWeek": 7,
-      "category": "第二批"
+      "category": "ç¬¬äºæ¹"
     },
     {
       "id": "ms8",
-      "title": "三层组织 A2A 调试",
+      "title": "ä¸å±ç»ç» A2A è°è¯",
       "startWeek": 8,
       "endWeek": 10,
-      "category": "联调验收"
+      "category": "èè°éªæ¶"
     }
   ],
   "progress": [],
   "sopEntries": [],
-  "lastUpdated": "2026-06-29T01:58:39.982Z"
+  "lastUpdated": "2026-06-29T02:00:05.622Z"
 }
