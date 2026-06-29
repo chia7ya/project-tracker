@@ -278,7 +278,20 @@
       "note": "",
       "id": "sop_1782702777573_holt",
       "createdAt": "2026-06-29T03:12:57.573Z"
+    },
+    {
+      "memberId": "m7",
+      "categoryId": "sop6",
+      "title": "大牌日收支审批监控",
+      "description": "",
+      "batch": 2,
+      "duration": 0.5,
+      "frequency": 30,
+      "canAI": "yes",
+      "note": "涉及汇金收款、UMP收款链路较多",
+      "id": "sop_1782702920214_kl8v",
+      "createdAt": "2026-06-29T03:15:20.214Z"
     }
   ],
-  "lastUpdated": "2026-06-29T03:12:59.587Z"
+  "lastUpdated": "2026-06-29T03:15:22.231Z"
 }
