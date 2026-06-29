@@ -330,7 +330,20 @@
       "note": "",
       "id": "sop_1782714646830_kfyd",
       "createdAt": "2026-06-29T06:30:46.830Z"
+    },
+    {
+      "memberId": "m3",
+      "categoryId": "sop5",
+      "title": "点淘预算监控",
+      "description": "监控收入、投入预算进度",
+      "batch": 1,
+      "duration": 0.5,
+      "frequency": 15,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782714701973_rm0s",
+      "createdAt": "2026-06-29T06:31:41.973Z"
     }
   ],
-  "lastUpdated": "2026-06-29T06:30:48.832Z"
+  "lastUpdated": "2026-06-29T06:32:05.464Z"
 }
