@@ -324,7 +324,7 @@
       "title": "月报",
       "description": "点淘、营销IP月报",
       "batch": 1,
-      "duration": 6,
+      "duration": 8,
       "frequency": 1,
       "canAI": "yes",
       "note": "",
@@ -392,10 +392,10 @@
       "duration": 8,
       "frequency": 1,
       "canAI": "yes",
-      "note": "可预测指标用AI完成，其余指标参考业务目标、财务目标参考AI给出建议，预算汇报用AI展示",
+      "note": "可预测指标用AI完成，其余指标参考业务目标、财务目标参考AI给出建议，辅助人工判断，预算汇报用AI展示",
       "id": "sop_1782715513732_2wsq",
       "createdAt": "2026-06-29T06:45:13.732Z"
     }
   ],
-  "lastUpdated": "2026-06-29T06:45:15.735Z"
+  "lastUpdated": "2026-06-29T06:46:44.009Z"
 }
