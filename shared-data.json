@@ -356,7 +356,20 @@
       "note": "",
       "id": "sop_1782714778082_koa9",
       "createdAt": "2026-06-29T06:32:58.082Z"
+    },
+    {
+      "memberId": "m3",
+      "categoryId": "sop2",
+      "title": "点淘用户分层损益分析",
+      "description": "",
+      "batch": 2,
+      "duration": 3,
+      "frequency": 1,
+      "canAI": "",
+      "note": "",
+      "id": "sop_1782714853198_v5pc",
+      "createdAt": "2026-06-29T06:34:13.198Z"
     }
   ],
-  "lastUpdated": "2026-06-29T06:33:06.473Z"
+  "lastUpdated": "2026-06-29T06:34:15.208Z"
 }
