@@ -150,7 +150,7 @@
     },
     {
       "memberId": "m5",
-      "categoryId": "",
+      "categoryId": "sop3",
       "title": "D7预测（直播有客）",
       "description": "结合年度预算目标、达播超头/KA分别的预测目标、结合营销节奏进行目标制定和调整。",
       "batch": 1,
@@ -165,7 +165,7 @@
       "memberId": "m5",
       "categoryId": "sop1",
       "title": "达播CMR分析监控",
-      "description": "TCP佣金 + 达播广告（自投+直播有客）",
+      "description": "1. 达播TCP佣金（计佣率、出佣率漏斗；分行业、分主播角色健康度情况；重点主播/ 商家的逃佣情况监控）；2. 达播广告（自投+直播有客）同比目标达成监控，分主播角色/分行业健康度监控",
       "batch": 1,
       "duration": 6,
       "frequency": 0,
@@ -176,5 +176,5 @@
       "skillDone": true
     }
   ],
-  "lastUpdated": "2026-06-29T02:54:57.311Z"
+  "lastUpdated": "2026-06-29T02:56:23.824Z"
 }
