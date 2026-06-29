@@ -142,7 +142,7 @@
       "description": "",
       "batch": 2,
       "duration": 0.5,
-      "frequency": 4,
+      "frequency": 1,
       "canAI": "yes",
       "note": "",
       "id": "sop_1782699231622_gqcm",
@@ -160,7 +160,46 @@
       "note": "",
       "id": "sop_1782699257345_ii2q",
       "createdAt": "2026-06-29T02:14:17.345Z"
+    },
+    {
+      "memberId": "m1",
+      "categoryId": "sop6",
+      "title": "月报",
+      "description": "",
+      "batch": 1,
+      "duration": 0.5,
+      "frequency": 1,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782699290469_1btw",
+      "createdAt": "2026-06-29T02:14:50.469Z"
+    },
+    {
+      "memberId": "m1",
+      "categoryId": "sop6",
+      "title": "周报",
+      "description": "",
+      "batch": 2,
+      "duration": 0.5,
+      "frequency": 4,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782699308615_yqsb",
+      "createdAt": "2026-06-29T02:15:08.615Z"
+    },
+    {
+      "memberId": "m1",
+      "categoryId": "sop5",
+      "title": "秒杀权益投入监控",
+      "description": "含0元单",
+      "batch": 2,
+      "duration": 0.5,
+      "frequency": 4,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782699337221_ml6d",
+      "createdAt": "2026-06-29T02:15:37.221Z"
     }
   ],
-  "lastUpdated": "2026-06-29T02:14:19.358Z"
+  "lastUpdated": "2026-06-29T02:15:39.235Z"
 }
