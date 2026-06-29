@@ -309,8 +309,8 @@
       "memberId": "m3",
       "categoryId": "sop3",
       "title": "D-3预测",
-      "description": "点淘、营销IP及渠道推广预测",
-      "batch": 1,
+      "description": "",
+      "batch": 2,
       "duration": 1,
       "frequency": 1,
       "canAI": "yes",
@@ -384,5 +384,5 @@
       "createdAt": "2026-06-29T06:34:38.508Z"
     }
   ],
-  "lastUpdated": "2026-06-29T06:35:51.475Z"
+  "lastUpdated": "2026-06-29T06:39:19.709Z"
 }
