@@ -341,7 +341,7 @@
     {
       "memberId": "m3",
       "categoryId": "sop5",
-      "title": "点淘预算监控",
+      "title": "预算监控",
       "description": "监控收入、投入预算进度",
       "batch": 1,
       "duration": 0.5,
@@ -350,19 +350,6 @@
       "note": "",
       "id": "sop_1782714701973_rm0s",
       "createdAt": "2026-06-29T06:31:41.973Z"
-    },
-    {
-      "memberId": "m3",
-      "categoryId": "sop5",
-      "title": "IP预算监控",
-      "description": "IP监控收入、投入预算进度",
-      "batch": 2,
-      "duration": 0.5,
-      "frequency": 4,
-      "canAI": "yes",
-      "note": "",
-      "id": "sop_1782714778082_koa9",
-      "createdAt": "2026-06-29T06:32:58.082Z"
     },
     {
       "memberId": "m3",
@@ -417,5 +404,5 @@
       "createdAt": "2026-06-29T06:51:49.927Z"
     }
   ],
-  "lastUpdated": "2026-06-29T06:56:26.981Z"
+  "lastUpdated": "2026-06-29T06:57:27.838Z"
 }
