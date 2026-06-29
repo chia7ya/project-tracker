@@ -252,7 +252,20 @@
       "note": "",
       "id": "sop_1782702566027_q361",
       "createdAt": "2026-06-29T03:09:26.027Z"
+    },
+    {
+      "memberId": "m7",
+      "categoryId": "sop1",
+      "title": "预算监控",
+      "description": "",
+      "batch": 2,
+      "duration": 3,
+      "frequency": 2,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782702698027_7zwv",
+      "createdAt": "2026-06-29T03:11:38.027Z"
     }
   ],
-  "lastUpdated": "2026-06-29T03:10:38.898Z"
+  "lastUpdated": "2026-06-29T03:11:40.038Z"
 }
