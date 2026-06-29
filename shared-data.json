@@ -108,6 +108,20 @@
     }
   ],
   "progress": [],
-  "sopEntries": [],
-  "lastUpdated": "2026-06-29T02:12:38.823Z"
+  "sopEntries": [
+    {
+      "memberId": "m1",
+      "categoryId": "sop2",
+      "title": "商家一本账",
+      "description": "",
+      "batch": 1,
+      "duration": 0.5,
+      "frequency": 4,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782699176203_hrae",
+      "createdAt": "2026-06-29T02:12:56.203Z"
+    }
+  ],
+  "lastUpdated": "2026-06-29T02:12:58.219Z"
 }
