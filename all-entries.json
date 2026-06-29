@@ -502,10 +502,36 @@
           "note": "",
           "id": "sop_1782742444597_ldj2",
           "createdAt": "2026-06-29T14:14:04.597Z"
+        },
+        {
+          "memberId": "m9",
+          "categoryId": "sop2",
+          "title": "百补官链广补增量商业化分析",
+          "description": "分析官链广补分行业、分赛道的广告增量率，监控货补投入比例，帮业务寻找可优化空间",
+          "batch": 2,
+          "duration": 2,
+          "frequency": 1,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782742487011_ojd1",
+          "createdAt": "2026-06-29T14:14:47.011Z"
+        },
+        {
+          "memberId": "m9",
+          "categoryId": "sop2",
+          "title": "百补叠补分析",
+          "description": "分析百补订单的百补权益、 大盘权益的叠加情況",
+          "batch": 1,
+          "duration": 2,
+          "frequency": 1,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782742568893_dlhs",
+          "createdAt": "2026-06-29T14:16:08.893Z"
         }
       ],
       "progress": [],
-      "lastUpdated": "2026-06-29T14:14:22.172Z"
+      "lastUpdated": "2026-06-29T14:16:10.895Z"
     },
     "m8": {
       "memberId": "m8",
@@ -672,5 +698,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-29T14:14:23.316Z"
+  "lastUpdated": "2026-06-29T14:16:12.276Z"
 }
