@@ -160,7 +160,21 @@
       "note": "根据达播梯队的广告目标和营销节奏变化较多、灵活度较大",
       "id": "sop_1782701606371_ywi3",
       "createdAt": "2026-06-29T02:53:26.371Z"
+    },
+    {
+      "memberId": "m5",
+      "categoryId": "sop1",
+      "title": "达播CMR分析监控",
+      "description": "TCP佣金 + 达播广告（自投+直播有客）",
+      "batch": 1,
+      "duration": 6,
+      "frequency": 0,
+      "canAI": "yes",
+      "note": "",
+      "id": "sop_1782701693731_2mnn",
+      "createdAt": "2026-06-29T02:54:53.731Z",
+      "skillDone": true
     }
   ],
-  "lastUpdated": "2026-06-29T02:53:28.376Z"
+  "lastUpdated": "2026-06-29T02:54:57.311Z"
 }
