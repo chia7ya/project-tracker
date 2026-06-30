@@ -7,12 +7,12 @@
           "memberId": "m1",
           "categoryId": "sop2",
           "title": "商家一本账",
-          "description": "已搭建好by商家/by商品基础的底层数据，核心关注行业维度和头商维度（秒杀渗透高）的商家的生意表现，关注商家和平台的投资情况",
+          "description": "",
           "batch": 1,
           "duration": 2,
           "frequency": 4,
           "canAI": "yes",
-          "note": "目前欠缺频道专享价和淘金币的消耗数据，其他数据需要投入使用后逐渐补充",
+          "note": "",
           "id": "sop_1782699176203_hrae",
           "createdAt": "2026-06-29T02:12:56.203Z"
         },
@@ -20,9 +20,9 @@
           "memberId": "m1",
           "categoryId": "sop2",
           "title": "用户分层损益",
-          "description": "基于频道用户分层损益，监控业务投资的健康度和分层用户的损益是否按照年初的计划再逐步优化",
+          "description": "",
           "batch": 1,
-          "duration": 3,
+          "duration": 2,
           "frequency": 4,
           "canAI": "yes",
           "note": "",
@@ -33,7 +33,7 @@
           "memberId": "m1",
           "categoryId": "sop3",
           "title": "D7预测",
-          "description": "包含增量收入、市场费投入、秒联高爆项目的预测",
+          "description": "",
           "batch": 2,
           "duration": 1,
           "frequency": 1,
@@ -59,12 +59,12 @@
           "memberId": "m1",
           "categoryId": "sop6",
           "title": "月报",
-          "description": "需要从财税大脑获取D8明细账或刷新海波龙进行入账数据的获取，来更新月报，但是业务达成数据可直接AI化",
+          "description": "",
           "batch": 1,
           "duration": 3,
           "frequency": 1,
           "canAI": "yes",
-          "note": "业务数据的获取可AI化",
+          "note": "",
           "id": "sop_1782699290469_1btw",
           "createdAt": "2026-06-29T02:14:50.469Z"
         },
@@ -85,12 +85,12 @@
           "memberId": "m1",
           "categoryId": "sop5",
           "title": "秒杀权益投入监控",
-          "description": "目前投入监控表分为人工部分和AI部分，AI帮忙处理0元单，汇集到玩法上，然后人肉导出秒杀权益表形成投入金额、引导成交订单等信息；并需要人肉导出实验信息，填写增量信息",
+          "description": "含0元单",
           "batch": 2,
           "duration": 6,
           "frequency": 4,
           "canAI": "yes",
-          "note": "1/4的工作可以AI化",
+          "note": "",
           "id": "sop_1782699337221_ml6d",
           "createdAt": "2026-06-29T02:15:37.221Z"
         },
@@ -98,12 +98,12 @@
           "memberId": "m1",
           "categoryId": "sop1",
           "title": "四象限迁移",
-          "description": "通过监控四象限的迁移，并量化正向迁移和负向迁移对TR的影响，另外找出迁移中负向较明显的赛道，诊断目前投入的合理性，与业务align好，对大部分赛道要求平台投入不得击穿商家广告投入（部分高用户价值赛道除外）",
+          "description": "",
           "batch": 1,
           "duration": 4,
           "frequency": 4,
           "canAI": "yes",
-          "note": "准确性需要再验证",
+          "note": "",
           "id": "sop_1782699360613_6y84",
           "createdAt": "2026-06-29T02:16:00.613Z"
         },
@@ -111,7 +111,7 @@
           "memberId": "m1",
           "categoryId": "sop2",
           "title": "拉人玩法长期价值分析",
-          "description": "已搭好秒杀涉及拉人玩法的权益核销底表，可看拉人前后X天的秒杀用户损益和手淘表现，但是缺失秒杀大盘整体权益触达人群的前后X天表现做对比，需要补充秒杀被权益触达过的人群的表现",
+          "description": "",
           "batch": 2,
           "duration": 3,
           "frequency": 1,
@@ -119,6 +119,19 @@
           "note": "",
           "id": "sop_1782700137632_0imy",
           "createdAt": "2026-06-29T02:28:57.632Z"
+        },
+        {
+          "memberId": "m1",
+          "categoryId": "sop1",
+          "title": "秒联高爆损益追踪",
+          "description": "",
+          "batch": 2,
+          "duration": 3,
+          "frequency": 1,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782804156072_8cw9",
+          "createdAt": "2026-06-30T07:22:36.072Z"
         }
       ],
       "progress": [
@@ -129,7 +142,7 @@
           "updatedAt": "2026-06-29T02:29:29.830Z"
         }
       ],
-      "lastUpdated": "2026-06-30T02:55:31.048Z"
+      "lastUpdated": "2026-06-30T07:22:38.074Z"
     },
     "m3": {
       "memberId": "m3",
@@ -990,5 +1003,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T07:05:28.123Z"
+  "lastUpdated": "2026-06-30T07:22:39.348Z"
 }
