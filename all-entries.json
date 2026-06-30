@@ -827,10 +827,23 @@
           "note": "",
           "id": "sop_1782743002316_9ezu",
           "createdAt": "2026-06-29T14:23:22.316Z"
+        },
+        {
+          "memberId": "m9",
+          "categoryId": "sop6",
+          "title": "聚划算年框进度追踪",
+          "description": "聚划算年框进度追踪，分月/季度、by商家维度追踪进度",
+          "batch": 2,
+          "duration": 3,
+          "frequency": 1,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782796336426_fs47",
+          "createdAt": "2026-06-30T05:12:16.426Z"
         }
       ],
       "progress": [],
-      "lastUpdated": "2026-06-30T05:10:44.118Z"
+      "lastUpdated": "2026-06-30T05:12:18.428Z"
     },
     "m8": {
       "memberId": "m8",
@@ -997,5 +1010,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T05:10:50.486Z"
+  "lastUpdated": "2026-06-30T05:12:20.179Z"
 }
