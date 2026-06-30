@@ -393,32 +393,6 @@
         },
         {
           "memberId": "m5",
-          "categoryId": "sop2",
-          "title": "新咖（带货）主播政策评估&日常监控",
-          "description": "",
-          "batch": 1,
-          "duration": 0.5,
-          "frequency": 8,
-          "canAI": "yes",
-          "note": "",
-          "id": "sop_1782702222935_u0nv",
-          "createdAt": "2026-06-29T03:03:42.935Z"
-        },
-        {
-          "memberId": "m5",
-          "categoryId": "sop2",
-          "title": "新咖（内容）主播政策评估&日常监控",
-          "description": "",
-          "batch": 2,
-          "duration": 0.5,
-          "frequency": 4,
-          "canAI": "yes",
-          "note": "",
-          "id": "sop_1782702341164_5r8z",
-          "createdAt": "2026-06-29T03:05:41.164Z"
-        },
-        {
-          "memberId": "m5",
           "categoryId": "sop3",
           "title": "D-3预测（直播有客，含月结）",
           "description": "根据各项成本发生情况确认分项目的投入（内投/外投/权益等），按交付进度确认分主推收入（现金收入+返券自投）并与资金流水一一对应（支付宝/主推政策内投余额消耗）for月结准备。",
@@ -569,7 +543,7 @@
           "updatedAt": "2026-06-29T13:44:11.671Z"
         }
       ],
-      "lastUpdated": "2026-06-29T14:20:26.638Z"
+      "lastUpdated": "2026-06-30T03:33:43.636Z"
     },
     "m7": {
       "memberId": "m7",
@@ -713,6 +687,19 @@
         },
         {
           "memberId": "m9",
+          "categoryId": "sop5",
+          "title": "百补3C类目分析",
+          "description": "分析百补3C类目成交、国补、补贴率变动影响",
+          "batch": 1,
+          "duration": 2,
+          "frequency": 4,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782742882130_nx2a",
+          "createdAt": "2026-06-29T14:21:22.130Z"
+        },
+        {
+          "memberId": "m9",
           "categoryId": "sop6",
           "title": "百补官播损益报表自动化",
           "description": "百补官播损益实现自动化周报，并推送至业务",
@@ -733,7 +720,7 @@
           "updatedAt": "2026-06-29T13:44:32.904Z"
         }
       ],
-      "lastUpdated": "2026-06-30T03:32:44.015Z"
+      "lastUpdated": "2026-06-30T03:23:09.831Z"
     },
     "m8": {
       "memberId": "m8",
@@ -900,5 +887,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T03:32:45.550Z"
+  "lastUpdated": "2026-06-30T03:33:43.665Z"
 }
