@@ -710,32 +710,6 @@
           "note": "",
           "id": "sop_1782742568893_dlhs",
           "createdAt": "2026-06-29T14:16:08.893Z"
-        },
-        {
-          "memberId": "m9",
-          "categoryId": "sop5",
-          "title": "百补3C类目分析",
-          "description": "分析百补3C类目成交、国补、补贴率变动影响",
-          "batch": 1,
-          "duration": 2,
-          "frequency": 4,
-          "canAI": "yes",
-          "note": "",
-          "id": "sop_1782742882130_nx2a",
-          "createdAt": "2026-06-29T14:21:22.130Z"
-        },
-        {
-          "memberId": "m9",
-          "categoryId": "sop6",
-          "title": "百补官播损益报表自动化",
-          "description": "百补官播损益实现自动化周报，并推送至业务",
-          "batch": 2,
-          "duration": 1,
-          "frequency": 8,
-          "canAI": "yes",
-          "note": "",
-          "id": "sop_1782743002316_9ezu",
-          "createdAt": "2026-06-29T14:23:22.316Z"
         }
       ],
       "progress": [
@@ -746,7 +720,7 @@
           "updatedAt": "2026-06-29T13:44:32.904Z"
         }
       ],
-      "lastUpdated": "2026-06-30T03:05:11.445Z"
+      "lastUpdated": "2026-06-30T03:07:37.415Z"
     },
     "m8": {
       "memberId": "m8",
@@ -913,5 +887,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T03:05:13.041Z"
+  "lastUpdated": "2026-06-30T03:07:39.172Z"
 }
