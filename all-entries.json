@@ -98,12 +98,12 @@
           "memberId": "m1",
           "categoryId": "sop1",
           "title": "四象限迁移",
-          "description": "",
+          "description": "通过监控四象限的迁移，并量化正向迁移和负向迁移对TR的影响，另外找出迁移中负向较明显的赛道，诊断目前投入的合理性，与业务align好，对大部分赛道要求平台投入不得击穿商家广告投入（部分高用户价值赛道除外）",
           "batch": 1,
           "duration": 4,
           "frequency": 4,
           "canAI": "yes",
-          "note": "",
+          "note": "准确性需要再验证",
           "id": "sop_1782699360613_6y84",
           "createdAt": "2026-06-29T02:16:00.613Z"
         },
@@ -111,7 +111,7 @@
           "memberId": "m1",
           "categoryId": "sop2",
           "title": "拉人玩法长期价值分析",
-          "description": "",
+          "description": "已搭好秒杀涉及拉人玩法的权益核销底表，可看拉人前后X天的秒杀用户损益和手淘表现，但是缺失秒杀大盘整体权益触达人群的前后X天表现做对比，需要补充秒杀被权益触达过的人群的表现",
           "batch": 2,
           "duration": 3,
           "frequency": 1,
@@ -124,7 +124,7 @@
           "memberId": "m1",
           "categoryId": "sop1",
           "title": "秒联高爆损益追踪",
-          "description": "",
+          "description": "by周追踪秒联高爆损益，管理项目",
           "batch": 2,
           "duration": 3,
           "frequency": 1,
@@ -142,7 +142,7 @@
           "updatedAt": "2026-06-29T02:29:29.830Z"
         }
       ],
-      "lastUpdated": "2026-06-30T08:56:43.837Z"
+      "lastUpdated": "2026-06-30T08:57:51.961Z"
     },
     "m3": {
       "memberId": "m3",
@@ -1042,5 +1042,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T08:56:45.199Z"
+  "lastUpdated": "2026-06-30T08:57:53.566Z"
 }
