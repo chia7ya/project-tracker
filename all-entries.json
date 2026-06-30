@@ -59,12 +59,12 @@
           "memberId": "m1",
           "categoryId": "sop6",
           "title": "月报",
-          "description": "",
+          "description": "需要从财税大脑获取D8明细账或刷新海波龙进行入账数据的获取，来更新月报，但是业务达成数据可直接AI化",
           "batch": 1,
           "duration": 3,
           "frequency": 1,
           "canAI": "yes",
-          "note": "",
+          "note": "业务数据的获取可AI化",
           "id": "sop_1782699290469_1btw",
           "createdAt": "2026-06-29T02:14:50.469Z"
         },
@@ -129,7 +129,7 @@
           "updatedAt": "2026-06-29T02:29:29.830Z"
         }
       ],
-      "lastUpdated": "2026-06-30T02:40:40.493Z"
+      "lastUpdated": "2026-06-30T02:43:22.267Z"
     },
     "m3": {
       "memberId": "m3",
@@ -926,5 +926,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T02:40:42.100Z"
+  "lastUpdated": "2026-06-30T02:43:23.884Z"
 }
