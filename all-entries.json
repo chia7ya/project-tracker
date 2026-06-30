@@ -924,10 +924,23 @@
           "note": "涉及汇金收款、UMP收款链路较多",
           "id": "sop_1782702920214_kl8v",
           "createdAt": "2026-06-29T03:15:20.214Z"
+        },
+        {
+          "memberId": "m7",
+          "categoryId": "sop2",
+          "title": "供给价异常监控及合理性评估",
+          "description": "",
+          "batch": 2,
+          "duration": 1,
+          "frequency": 4,
+          "canAI": "yes",
+          "note": "数据底表待补充完善",
+          "id": "sop_1782796125889_v7px",
+          "createdAt": "2026-06-30T05:08:45.890Z"
         }
       ],
       "progress": [],
-      "lastUpdated": "2026-06-29T08:08:19.021Z"
+      "lastUpdated": "2026-06-30T05:08:47.898Z"
     },
     "m9": {
       "memberId": "m9",
@@ -1166,5 +1179,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T04:22:32.738Z"
+  "lastUpdated": "2026-06-30T05:08:50.058Z"
 }
