@@ -7,12 +7,12 @@
           "memberId": "m1",
           "categoryId": "sop2",
           "title": "商家一本账",
-          "description": "",
+          "description": "已搭建好by商家/by商品基础的底层数据，核心关注行业维度和头商维度（秒杀渗透高）的商家的生意表现",
           "batch": 1,
           "duration": 2,
           "frequency": 4,
           "canAI": "yes",
-          "note": "",
+          "note": "目前欠缺频道专享价和淘金币的消耗数据，其他数据需要投入使用后逐渐补充",
           "id": "sop_1782699176203_hrae",
           "createdAt": "2026-06-29T02:12:56.203Z"
         },
@@ -129,7 +129,7 @@
           "updatedAt": "2026-06-29T02:29:29.830Z"
         }
       ],
-      "lastUpdated": "2026-06-29T08:12:21.273Z"
+      "lastUpdated": "2026-06-30T02:29:23.633Z"
     },
     "m3": {
       "memberId": "m3",
@@ -926,5 +926,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T02:22:24.090Z"
+  "lastUpdated": "2026-06-30T02:29:24.891Z"
 }
