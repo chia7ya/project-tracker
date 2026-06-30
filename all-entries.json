@@ -816,6 +816,19 @@
         },
         {
           "memberId": "m9",
+          "categoryId": "",
+          "title": "百补官播损益报表自动化",
+          "description": "百补官播损益实现自动化周报，并推送至业务",
+          "batch": 2,
+          "duration": 1,
+          "frequency": 8,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782742933681_eo89",
+          "createdAt": "2026-06-29T14:22:13.681Z"
+        },
+        {
+          "memberId": "m9",
           "categoryId": "sop6",
           "title": "百补官播损益报表自动化",
           "description": "百补官播损益实现自动化周报，并推送至业务",
@@ -829,27 +842,20 @@
         },
         {
           "memberId": "m9",
-          "categoryId": "",
-          "title": "百补官播损益报表自动化",
-          "description": "百补官播损益实现自动化周报，并推送至业务",
+          "categoryId": "sop1",
+          "title": "test",
+          "description": "test",
           "batch": 2,
-          "duration": 1,
-          "frequency": 8,
+          "duration": 1.5,
+          "frequency": 3,
           "canAI": "yes",
           "note": "",
-          "id": "sop_1782742933681_eo89",
-          "createdAt": "2026-06-29T14:22:13.681Z"
+          "id": "sop_1782806962143_6k4y",
+          "createdAt": "2026-06-30T08:09:22.143Z"
         }
       ],
-      "progress": [
-        {
-          "memberId": "m9",
-          "milestoneId": "sop",
-          "status": "in_progress",
-          "updatedAt": "2026-06-29T13:44:32.904Z"
-        }
-      ],
-      "lastUpdated": "2026-06-30T07:45:56.406Z"
+      "progress": [],
+      "lastUpdated": "2026-06-30T08:09:24.145Z"
     },
     "m8": {
       "memberId": "m8",
@@ -1016,5 +1022,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T07:45:58.295Z"
+  "lastUpdated": "2026-06-30T08:09:26.090Z"
 }
