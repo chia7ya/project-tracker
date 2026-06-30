@@ -33,7 +33,7 @@
           "memberId": "m1",
           "categoryId": "sop3",
           "title": "D7预测",
-          "description": "",
+          "description": "包含增量收入、市场费投入、秒联高爆项目的预测",
           "batch": 2,
           "duration": 1,
           "frequency": 1,
@@ -129,7 +129,7 @@
           "updatedAt": "2026-06-29T02:29:29.830Z"
         }
       ],
-      "lastUpdated": "2026-06-30T02:37:02.321Z"
+      "lastUpdated": "2026-06-30T02:40:40.493Z"
     },
     "m3": {
       "memberId": "m3",
@@ -926,5 +926,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T02:37:03.875Z"
+  "lastUpdated": "2026-06-30T02:40:42.100Z"
 }
