@@ -59,7 +59,7 @@
           "memberId": "m1",
           "categoryId": "sop6",
           "title": "月报",
-          "description": "",
+          "description": "业务数据可AI化，财务数据需人工从海波龙或财税大脑人工导出或填报",
           "batch": 1,
           "duration": 3,
           "frequency": 1,
@@ -85,12 +85,12 @@
           "memberId": "m1",
           "categoryId": "sop5",
           "title": "秒杀权益投入监控",
-          "description": "含0元单",
+          "description": "目前投入监控表分为人工部分和AI部分，AI帮忙处理0元单，汇集到玩法上，然后人肉导出秒杀权益表形成投入金额、引导成交订单等信息；并需要人肉导出实验信息，填写增量信息",
           "batch": 2,
           "duration": 6,
           "frequency": 4,
           "canAI": "yes",
-          "note": "",
+          "note": "1/4的工作可以AI化",
           "id": "sop_1782699337221_ml6d",
           "createdAt": "2026-06-29T02:15:37.221Z"
         },
@@ -142,7 +142,7 @@
           "updatedAt": "2026-06-29T02:29:29.830Z"
         }
       ],
-      "lastUpdated": "2026-06-30T08:55:40.188Z"
+      "lastUpdated": "2026-06-30T08:56:43.837Z"
     },
     "m3": {
       "memberId": "m3",
@@ -1042,5 +1042,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T08:55:41.765Z"
+  "lastUpdated": "2026-06-30T08:56:45.199Z"
 }
