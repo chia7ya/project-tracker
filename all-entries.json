@@ -354,6 +354,72 @@
         {
           "memberId": "m5",
           "categoryId": "sop3",
+          "title": "D7预测（直播有客）",
+          "description": "结合年度预算目标、达播超头/KA分别的预测目标、结合营销节奏进行目标制定和调整。",
+          "batch": 1,
+          "duration": 1,
+          "frequency": 0,
+          "canAI": "no",
+          "note": "根据达播梯队的广告目标和营销节奏变化较多、灵活度较大",
+          "id": "sop_1782701606371_ywi3",
+          "createdAt": "2026-06-29T02:53:26.371Z"
+        },
+        {
+          "memberId": "m5",
+          "categoryId": "sop1",
+          "title": "达播CMR分析监控",
+          "description": "1. 达播TCP佣金（计佣率、出佣率漏斗；分行业、分主播角色健康度情况；重点主播/ 商家的逃佣情况监控）；2. 达播广告（自投+直播有客）同比目标达成监控，分主播角色/分行业健康度监控",
+          "batch": 1,
+          "duration": 6,
+          "frequency": 0,
+          "canAI": "yes",
+          "note": "1. TCP佣金两个口径：锁支付口径模拟佣金（实时监控口径）、真实确收计费口径（每月月报口径）；2. 广告两个口径：真实消耗口径（内投超级直播消耗+直播有客现金收入）、财务管报口径（计算点淘0.7*ROI达成的折算）；其中佣金实时锁单口径+广告实时消耗口径可AI，财务入账数线下处理复杂暂需人工介入",
+          "id": "sop_1782701693731_2mnn",
+          "createdAt": "2026-06-29T02:54:53.731Z",
+          "skillDone": false
+        },
+        {
+          "memberId": "m5",
+          "categoryId": "sop2",
+          "title": "KA主播政策评估&日常监控",
+          "description": "1. KA主播政策分析评估（结合预算目标、分主播历史情况数据、增量ROI指标）2. 日常进度监控（成交、商业化、佣金TR、过程指标如用户等达成情况）",
+          "batch": 2,
+          "duration": 1,
+          "frequency": 10,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782702112200_71ui",
+          "createdAt": "2026-06-29T03:01:52.200Z"
+        },
+        {
+          "memberId": "m5",
+          "categoryId": "sop2",
+          "title": "新咖（带货）主播政策评估&日常监控",
+          "description": "",
+          "batch": 1,
+          "duration": 0.5,
+          "frequency": 8,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782702222935_u0nv",
+          "createdAt": "2026-06-29T03:03:42.935Z"
+        },
+        {
+          "memberId": "m5",
+          "categoryId": "sop2",
+          "title": "新咖（内容）主播政策评估&日常监控",
+          "description": "",
+          "batch": 2,
+          "duration": 0.5,
+          "frequency": 4,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782702341164_5r8z",
+          "createdAt": "2026-06-29T03:05:41.164Z"
+        },
+        {
+          "memberId": "m5",
+          "categoryId": "sop3",
           "title": "D-3预测（直播有客，含月结）",
           "description": "根据各项成本发生情况确认分项目的投入（内投/外投/权益等），按交付进度确认分主推收入（现金收入+返券自投）并与资金流水一一对应（支付宝/主推政策内投余额消耗）for月结准备。",
           "batch": 1,
@@ -493,6 +559,149 @@
           "note": "",
           "id": "sop_1782742663777_bbr6",
           "createdAt": "2026-06-29T14:17:43.777Z"
+        },
+        {
+          "memberId": "m5",
+          "categoryId": "sop3",
+          "title": "D-3预测（直播有客，含月结）",
+          "description": "根据各项成本发生情况确认分项目的投入（内投/外投/权益等），按交付进度确认分主推收入（现金收入+返券自投）并与资金流水一一对应（支付宝/主推政策内投余额消耗）for月结准备。",
+          "batch": 1,
+          "duration": 2.5,
+          "frequency": 2,
+          "canAI": "no",
+          "note": "招商收入预估以业务招商测算为准（受限于业务当前台账为线下）、非算法模型预估；投入策略灵活。按ROI效果结合业务判断实时调整。",
+          "id": "sop_1782741288129_afkj",
+          "createdAt": "2026-06-29T13:54:48.129Z"
+        },
+        {
+          "memberId": "m5",
+          "categoryId": "sop3",
+          "title": "D-3预测（主播政策激励投入，含月结）",
+          "description": "1. KA主播政策（根据成交、商业化、佣金TR）的实时完成情况预估达成和激励金额；2. 新咖政策：带货新期内投放额妈妈券预估、内容化新现金额激励按活动/邀请费实际发生金额预估。",
+          "batch": 1,
+          "duration": 1,
+          "frequency": 2,
+          "canAI": "yes",
+          "note": "1. 主播激励进度skill化后，可直接引用结果；2. 待接入妈妈券消耗数据的产品能力",
+          "id": "sop_1782741288129_0z6d",
+          "createdAt": "2026-06-29T13:54:48.129Z"
+        },
+        {
+          "memberId": "m5",
+          "categoryId": "sop3",
+          "title": "D-3预测（达播CMR）",
+          "description": "达播确收、TCP佣金、广告预估",
+          "batch": 1,
+          "duration": 2,
+          "frequency": 1,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782741288129_e9r4",
+          "createdAt": "2026-06-29T13:54:48.129Z"
+        },
+        {
+          "memberId": "m5",
+          "categoryId": "sop3",
+          "title": "D7预测（达播）",
+          "description": "1. 分达播主播梯队的：成交、广告、TCP佣金；2. 主播政策激励投入预估（KA激励、带货新咖内投、内容化新咖现金）。",
+          "batch": 1,
+          "duration": 6,
+          "frequency": 1,
+          "canAI": "yes",
+          "note": "季度预测结合年度预算目标、趋势和业务策略等进行调整；主播激励结合近期激励达成情况的复盘进行参数调整。",
+          "id": "sop_1782741288129_6h56",
+          "createdAt": "2026-06-29T13:54:48.129Z"
+        },
+        {
+          "memberId": "m5",
+          "categoryId": "sop3",
+          "title": "D7预测（直播有客）",
+          "description": "结合年度预算目标、达播镜头/K/A分别的预测目标，结合营销节奏进行目标制定和调整。",
+          "batch": 1,
+          "duration": 1,
+          "frequency": 1,
+          "canAI": "no",
+          "note": "根据法务合规梯队的广告目标和营销节奏变化较大，灵活度较大",
+          "id": "sop_1782741288129_csdl",
+          "createdAt": "2026-06-29T13:54:48.129Z"
+        },
+        {
+          "memberId": "m5",
+          "categoryId": "",
+          "title": "达播CMR监控分析（含TCP佣金）",
+          "description": "重点主播/商家的逃佣情况监控；达播广告（自投+直通有客）同比目标达成监控，分主播角色/分行健康度监控",
+          "batch": 1,
+          "duration": 6,
+          "frequency": 1,
+          "canAI": "yes",
+          "note": "两个TCP资金账户，实时监控，按确收口径复盘月报，佣金TR漏斗+行业健康度",
+          "id": "sop_1782741288129_75mj",
+          "createdAt": "2026-06-29T13:54:48.129Z"
+        },
+        {
+          "memberId": "m5",
+          "categoryId": "sop2",
+          "title": "KA主播政策评估",
+          "description": "KA主播政策方案的分析性评估（结合预算目标、分主播历史情况数据、增量ROI指标）、历史政策复盘",
+          "batch": 1,
+          "duration": 16,
+          "frequency": 1,
+          "canAI": "no",
+          "note": "部分可AI化（）；主要时间花在和业务交互调整方案",
+          "id": "sop_1782741288129_cr00",
+          "createdAt": "2026-06-29T13:54:48.129Z"
+        },
+        {
+          "memberId": "m5",
+          "categoryId": "sop2",
+          "title": "KA主播政策日常监控",
+          "description": "KA主播政策日常进度监控（成交、商业化、佣金TR、过程指标如用户等达成情况）",
+          "batch": 1,
+          "duration": 0.5,
+          "frequency": 10,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782741288129_g53c",
+          "createdAt": "2026-06-29T13:54:48.129Z"
+        },
+        {
+          "memberId": "m5",
+          "categoryId": "sop2",
+          "title": "新咖（带货）主播政策评估&日常监控",
+          "description": "1. 带货新咖主播政策评估（基于标准分档框架做主播定级、确收节奏调整）2. 主播政策分批解锁激励（by周~by月）过程中、review实际政策目标达成情况、分析主播健康度、监控异常监控；",
+          "batch": 1,
+          "duration": 0.5,
+          "frequency": 8,
+          "canAI": "yes",
+          "note": "卡点在于妈妈券发放和消耗的线上化数据对接",
+          "id": "sop_1782741288129_wa9t",
+          "createdAt": "2026-06-29T13:54:48.129Z"
+        },
+        {
+          "memberId": "m5",
+          "categoryId": "sop2",
+          "title": "新咖（内容）主播政策评估&日常监控",
+          "description": "1. 内容化新咖主播政策评估（基于标准分档框架做主播定级、S档一客一价评估合理性）2. 签约合同审批和预算进度跟踪、用户指标实际达成情况跟进（by场次、by月）",
+          "batch": 1,
+          "duration": 1,
+          "frequency": 4,
+          "canAI": "no",
+          "note": "当前卡点在于：线下活动投入（集采平台）、招商收入（妈妈UMP朋友）、新咖邀请费（CPA/特付）、用户指标（奖励中心）等线上平台数据接入，目前依赖业务运营台账登记",
+          "id": "sop_1782741288129_pvih",
+          "createdAt": "2026-06-29T13:54:48.129Z"
+        },
+        {
+          "memberId": "m5",
+          "categoryId": "sop2",
+          "title": "主播损益模拟",
+          "description": "",
+          "batch": 1,
+          "duration": 6,
+          "frequency": 1,
+          "canAI": "no",
+          "note": "",
+          "id": "sop_1782741288130_300l",
+          "createdAt": "2026-06-29T13:54:48.130Z"
         }
       ],
       "progress": [
@@ -503,7 +712,7 @@
           "updatedAt": "2026-06-29T13:44:11.671Z"
         }
       ],
-      "lastUpdated": "2026-06-30T03:34:44.750Z"
+      "lastUpdated": "2026-06-30T04:13:17.769Z"
     },
     "m7": {
       "memberId": "m7",
@@ -840,5 +1049,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T04:09:02.556Z"
+  "lastUpdated": "2026-06-30T04:13:19.720Z"
 }
