@@ -751,6 +751,19 @@
       "sopEntries": [
         {
           "memberId": "m9",
+          "categoryId": "sop2",
+          "title": "百补叠补分析",
+          "description": "分析百补订单的百补权益、大盘权益的叠加情况",
+          "batch": 2,
+          "duration": 2,
+          "frequency": 1,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782717140323_i6cu",
+          "createdAt": "2026-06-29T07:12:20.323Z"
+        },
+        {
+          "memberId": "m9",
           "categoryId": "sop6",
           "title": "百补商业化项目收入、投入追踪",
           "description": "跟踪百补天猫佣金商业化项目的收入、支出进度，监控是否有异常超支商家",
@@ -839,6 +852,19 @@
           "note": "",
           "id": "sop_1782807067140_0i4n",
           "createdAt": "2026-06-30T08:11:07.140Z"
+        },
+        {
+          "memberId": "m9",
+          "categoryId": "sop2",
+          "title": "test1189",
+          "description": "test1189",
+          "batch": 1,
+          "duration": 1.5,
+          "frequency": 3,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782807889519_i4hi",
+          "createdAt": "2026-06-30T08:24:49.519Z"
         }
       ],
       "progress": [
@@ -849,7 +875,7 @@
           "updatedAt": "2026-06-29T13:44:32.904Z"
         }
       ],
-      "lastUpdated": "2026-06-30T08:13:21.503Z"
+      "lastUpdated": "2026-06-30T08:24:51.521Z"
     },
     "m8": {
       "memberId": "m8",
@@ -1016,5 +1042,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T08:21:42.782Z"
+  "lastUpdated": "2026-06-30T08:24:53.080Z"
 }
