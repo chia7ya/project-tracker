@@ -304,10 +304,127 @@
           "note": "",
           "id": "sop_1782716743334_o4f0",
           "createdAt": "2026-06-29T07:05:43.334Z"
+        },
+        {
+          "memberId": "m4",
+          "categoryId": "",
+          "title": "直播用户周度监控",
+          "description": "by周监控资金流速和异常情况",
+          "batch": 1,
+          "duration": 3,
+          "frequency": 4,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782793347158_vvlc",
+          "createdAt": "2026-06-30T04:22:27.158Z"
+        },
+        {
+          "memberId": "m4",
+          "categoryId": "",
+          "title": "直播分销周度监控",
+          "description": "by周查看成交情况",
+          "batch": 1,
+          "duration": 2,
+          "frequency": 4,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782793347159_vteb",
+          "createdAt": "2026-06-30T04:22:27.159Z"
+        },
+        {
+          "memberId": "m4",
+          "categoryId": "sop6",
+          "title": "直播用户月度复盘",
+          "description": "复盘用户表现和用户投入",
+          "batch": 1,
+          "duration": 20,
+          "frequency": 1,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782793347159_nto6",
+          "createdAt": "2026-06-30T04:22:27.159Z"
+        },
+        {
+          "memberId": "m4",
+          "categoryId": "sop6",
+          "title": "直播分销月度复盘",
+          "description": "复盘分销服务商成交和投入情况",
+          "batch": 1,
+          "duration": 8,
+          "frequency": 1,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782793347159_satt",
+          "createdAt": "2026-06-30T04:22:27.159Z"
+        },
+        {
+          "memberId": "m4",
+          "categoryId": "sop6",
+          "title": "珠宝文玩周报",
+          "description": "周报",
+          "batch": 1,
+          "duration": 3,
+          "frequency": 1,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782793347159_6esd",
+          "createdAt": "2026-06-30T04:22:27.159Z"
+        },
+        {
+          "memberId": "m4",
+          "categoryId": "sop2",
+          "title": "珠宝文玩政策复盘",
+          "description": "政策有效性复盘",
+          "batch": 1,
+          "duration": 10,
+          "frequency": 1,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782793347159_mzp8",
+          "createdAt": "2026-06-30T04:22:27.159Z"
+        },
+        {
+          "memberId": "m4",
+          "categoryId": "sop6",
+          "title": "珠宝文玩月报",
+          "description": "复盘行业投资情况",
+          "batch": 1,
+          "duration": 10,
+          "frequency": 1,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782793347159_i5ni",
+          "createdAt": "2026-06-30T04:22:27.159Z"
+        },
+        {
+          "memberId": "m4",
+          "categoryId": "sop2",
+          "title": "小店政策评估",
+          "description": "政策有效性复盘",
+          "batch": 1,
+          "duration": 10,
+          "frequency": 1,
+          "canAI": "yes",
+          "note": "",
+          "id": "sop_1782793347159_asa6",
+          "createdAt": "2026-06-30T04:22:27.159Z"
+        },
+        {
+          "memberId": "m4",
+          "categoryId": "sop2",
+          "title": "小店月报",
+          "description": "复盘小店成交和投资情况",
+          "batch": 1,
+          "duration": 0,
+          "frequency": 0,
+          "canAI": "no",
+          "note": "投入均为滞后项，无法当月完成",
+          "id": "sop_1782793347159_wfyo",
+          "createdAt": "2026-06-30T04:22:27.159Z"
         }
       ],
       "progress": [],
-      "lastUpdated": "2026-06-29T08:08:23.606Z"
+      "lastUpdated": "2026-06-30T04:22:30.656Z"
     },
     "m5": {
       "memberId": "m5",
@@ -1049,5 +1166,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T04:13:19.720Z"
+  "lastUpdated": "2026-06-30T04:22:32.738Z"
 }
