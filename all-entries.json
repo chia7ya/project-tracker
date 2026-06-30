@@ -746,7 +746,7 @@
         {
           "memberId": "m7",
           "categoryId": "sop6",
-          "title": "大牌日收支审批监控",
+          "title": "大牌日欢聚日收支审批监控",
           "description": "",
           "batch": 2,
           "duration": 0.5,
@@ -784,7 +784,7 @@
         }
       ],
       "progress": [],
-      "lastUpdated": "2026-06-30T05:13:11.875Z"
+      "lastUpdated": "2026-06-30T05:14:38.998Z"
     },
     "m9": {
       "memberId": "m9",
@@ -1036,5 +1036,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T05:13:13.472Z"
+  "lastUpdated": "2026-06-30T05:14:40.385Z"
 }
