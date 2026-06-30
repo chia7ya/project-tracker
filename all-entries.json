@@ -7,7 +7,7 @@
           "memberId": "m1",
           "categoryId": "sop2",
           "title": "商家一本账",
-          "description": "",
+          "description": "已搭建好by商家/by商品基础的底层数据，核心关注行业维度和头商维度（秒杀渗透高）的商家的生意表现，关注商家和平台的投资情况",
           "batch": 1,
           "duration": 2,
           "frequency": 4,
@@ -142,7 +142,7 @@
           "updatedAt": "2026-06-29T02:29:29.830Z"
         }
       ],
-      "lastUpdated": "2026-06-30T07:22:38.074Z"
+      "lastUpdated": "2026-06-30T07:23:47.054Z"
     },
     "m3": {
       "memberId": "m3",
@@ -1003,5 +1003,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T07:22:39.348Z"
+  "lastUpdated": "2026-06-30T07:23:48.434Z"
 }
