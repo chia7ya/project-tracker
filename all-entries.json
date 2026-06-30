@@ -20,7 +20,7 @@
           "memberId": "m1",
           "categoryId": "sop2",
           "title": "用户分层损益",
-          "description": "",
+          "description": "基于频道用户分层损益，监控业务投资的健康度和分层用户的损益是否按照年初的计划再逐步优化",
           "batch": 1,
           "duration": 2,
           "frequency": 4,
@@ -142,7 +142,7 @@
           "updatedAt": "2026-06-29T02:29:29.830Z"
         }
       ],
-      "lastUpdated": "2026-06-30T08:50:55.003Z"
+      "lastUpdated": "2026-06-30T08:52:38.573Z"
     },
     "m3": {
       "memberId": "m3",
@@ -1042,5 +1042,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T08:50:58.139Z"
+  "lastUpdated": "2026-06-30T08:52:40.565Z"
 }
