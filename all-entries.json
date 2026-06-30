@@ -280,46 +280,6 @@
       "sopEntries": [
         {
           "memberId": "m4",
-          "categoryId": "sop6",
-          "title": "直播用户月度复盘",
-          "description": "复盘用户表现和用户投入",
-          "batch": 1,
-          "duration": 20,
-          "frequency": 1,
-          "canAI": "yes",
-          "note": "",
-          "id": "sop_1782716664263_w6es",
-          "createdAt": "2026-06-29T07:04:24.263Z",
-          "skillDone": false
-        },
-        {
-          "memberId": "m4",
-          "categoryId": "sop6",
-          "title": "珠宝文玩周报",
-          "description": "周报",
-          "batch": 1,
-          "duration": 3,
-          "frequency": 1,
-          "canAI": "yes",
-          "note": "",
-          "id": "sop_1782716713358_8m09",
-          "createdAt": "2026-06-29T07:05:13.358Z"
-        },
-        {
-          "memberId": "m4",
-          "categoryId": "sop2",
-          "title": "珠宝文玩政策复盘",
-          "description": "政策有效性复盘",
-          "batch": 1,
-          "duration": 10,
-          "frequency": 1,
-          "canAI": "yes",
-          "note": "",
-          "id": "sop_1782716743334_o4f0",
-          "createdAt": "2026-06-29T07:05:43.334Z"
-        },
-        {
-          "memberId": "m4",
           "categoryId": "",
           "title": "直播用户周度监控",
           "description": "by周监控资金流速和异常情况",
@@ -328,8 +288,8 @@
           "frequency": 4,
           "canAI": "yes",
           "note": "",
-          "id": "sop_1782793347158_vvlc",
-          "createdAt": "2026-06-30T04:22:27.158Z"
+          "id": "sop_1782809924859_w2po",
+          "createdAt": "2026-06-30T08:58:44.859Z"
         },
         {
           "memberId": "m4",
@@ -341,8 +301,8 @@
           "frequency": 4,
           "canAI": "yes",
           "note": "",
-          "id": "sop_1782793347159_vteb",
-          "createdAt": "2026-06-30T04:22:27.159Z"
+          "id": "sop_1782809924860_udtt",
+          "createdAt": "2026-06-30T08:58:44.860Z"
         },
         {
           "memberId": "m4",
@@ -354,8 +314,8 @@
           "frequency": 1,
           "canAI": "yes",
           "note": "",
-          "id": "sop_1782793347159_nto6",
-          "createdAt": "2026-06-30T04:22:27.159Z"
+          "id": "sop_1782809924860_9d8w",
+          "createdAt": "2026-06-30T08:58:44.860Z"
         },
         {
           "memberId": "m4",
@@ -367,8 +327,8 @@
           "frequency": 1,
           "canAI": "yes",
           "note": "",
-          "id": "sop_1782793347159_satt",
-          "createdAt": "2026-06-30T04:22:27.159Z"
+          "id": "sop_1782809924860_vvkk",
+          "createdAt": "2026-06-30T08:58:44.860Z"
         },
         {
           "memberId": "m4",
@@ -380,8 +340,8 @@
           "frequency": 1,
           "canAI": "yes",
           "note": "",
-          "id": "sop_1782793347159_6esd",
-          "createdAt": "2026-06-30T04:22:27.159Z"
+          "id": "sop_1782809924860_oahm",
+          "createdAt": "2026-06-30T08:58:44.860Z"
         },
         {
           "memberId": "m4",
@@ -393,8 +353,8 @@
           "frequency": 1,
           "canAI": "yes",
           "note": "",
-          "id": "sop_1782793347159_mzp8",
-          "createdAt": "2026-06-30T04:22:27.159Z"
+          "id": "sop_1782809924860_p09f",
+          "createdAt": "2026-06-30T08:58:44.860Z"
         },
         {
           "memberId": "m4",
@@ -406,8 +366,8 @@
           "frequency": 1,
           "canAI": "yes",
           "note": "",
-          "id": "sop_1782793347159_i5ni",
-          "createdAt": "2026-06-30T04:22:27.159Z"
+          "id": "sop_1782809924860_6s5s",
+          "createdAt": "2026-06-30T08:58:44.860Z"
         },
         {
           "memberId": "m4",
@@ -419,8 +379,8 @@
           "frequency": 1,
           "canAI": "yes",
           "note": "",
-          "id": "sop_1782793347159_asa6",
-          "createdAt": "2026-06-30T04:22:27.159Z"
+          "id": "sop_1782809924860_7wol",
+          "createdAt": "2026-06-30T08:58:44.860Z"
         },
         {
           "memberId": "m4",
@@ -432,12 +392,12 @@
           "frequency": 0,
           "canAI": "no",
           "note": "投入均为滞后项，无法当月完成",
-          "id": "sop_1782793347159_wfyo",
-          "createdAt": "2026-06-30T04:22:27.159Z"
+          "id": "sop_1782809924860_k3x3",
+          "createdAt": "2026-06-30T08:58:44.860Z"
         }
       ],
       "progress": [],
-      "lastUpdated": "2026-06-30T04:22:30.656Z"
+      "lastUpdated": "2026-06-30T08:59:16.951Z"
     },
     "m5": {
       "memberId": "m5",
@@ -1042,5 +1002,5 @@
       "lastUpdated": "2026-06-29T13:43:46.652Z"
     }
   },
-  "lastUpdated": "2026-06-30T08:57:53.566Z"
+  "lastUpdated": "2026-06-30T08:59:18.253Z"
 }
